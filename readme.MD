@@ -1,5 +1,7 @@
 <!-- customize README -->
 
+<!-- please read me -->
+
 # 19 CI-CD: GitHub Actions CI/CD Setup
 
 ## Your Task
